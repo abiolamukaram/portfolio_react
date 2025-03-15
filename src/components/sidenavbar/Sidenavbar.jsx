@@ -41,7 +41,7 @@ const Sidenavbar = () => {
 
                 {/* user profile, name, and designation */}
                 <div className="w-full flex items-center gap-x-3">
-                    <img src="/src/assets/images/photo .png" alt="profile img" className="w-12 h-12 rounded-full object-cover object-center" />
+                    <img src="https://res.cloudinary.com/deoqlqbci/image/upload/v1742070935/photo_yt7k3y.png" alt="profile img" className="w-12 h-12 rounded-full object-cover object-center" />
 
                     <div className="space-y-0">
                         <p className="text-base font-semibold leading-6 text-zinc-50">

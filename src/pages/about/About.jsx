@@ -13,7 +13,7 @@ const About = () => {
         <div className="w-full flex items-center gap-10 flex-wrap">
           <div className="md:w-64 w-full h-auto flex items-center justify-center border border-zinc-900/40 bg-zinc-900/20 rounded-lg">
             <img
-              src="/src/assets/images/photo .png"
+              src="https://res.cloudinary.com/deoqlqbci/image/upload/v1742070935/photo_yt7k3y.png"
               alt="about img"
               className="w-full aspect-square rounded-lg object-cover object-center"
             />
