@@ -37,9 +37,11 @@ const Hero = () => {
                         About Me
                     </button>
                 </Link>
+                <Link to='https://docs.google.com/document/d/1gm0IHBJh-nctm_BSA1_f0A9dkTz4pS-uHsxprUajEPM/edit?usp=sharing'>
                 <button className="w-fit px-6 py-2.5 border border-zinc-600 hover:bg-zinc-700/60 text-zinc-50 rounded-lg flex items-center gap-x-2 cursor-pointer ease-in-out duration-300">
                     Download CV
                 </button>
+                </Link>
             </div>
 
     </div>

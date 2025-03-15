@@ -41,7 +41,7 @@ const Sidenavbar = () => {
 
                 {/* user profile, name, and designation */}
                 <div className="w-full flex items-center gap-x-3">
-                    <img src="https://cdn.pixabay.com/photo/2018/08/16/18/44/model-3611078_1280.jpg" alt="profile img" className="w-12 h-12 rounded-full object-cover object-center" />
+                    <img src="/src/assets/images/photo .png" alt="profile img" className="w-12 h-12 rounded-full object-cover object-center" />
 
                     <div className="space-y-0">
                         <p className="text-base font-semibold leading-6 text-zinc-50">
