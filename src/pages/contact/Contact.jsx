@@ -6,6 +6,7 @@ import { LiaPhoneVolumeSolid } from "react-icons/lia";
 const Contact = () => {
   return (
     <RootLayout className={"space-y-24"}>
+      
       {/* contact info */}
       <div className="space-y-12 border border-zinc-700 md:p-12 sm:p-8 p-6 rounded-lg">
         <div className="w-full flex items-start justify-between gap-10 md:flex-nowrap flex-wrap">
@@ -14,7 +15,8 @@ const Contact = () => {
               Have a project in mind?
             </h1>
             <p className="text-sm font-normal">
-              Let's collaborate and create something amazing together!
+              {/* Let's collaborate and create something amazing together! */}
+              Let’s connect and discuss how we can build impactful digital experiences together!
             </p>
           </div>
 

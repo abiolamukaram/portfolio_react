@@ -32,7 +32,7 @@ const Hero = () => {
             </div>
 
             <div className="w-full flex items-center gap-6">
-                <Link to='/src/pages/about/About.jsx'>
+                <Link to='/me'>
                     <button className="w-fit px-6 py-2.5 border border-amber-600 bg-amber-600 text-zinc-50 rounded-lg flex items-center gap-x-2 cursor-pointer ease-in-out duration-300">
                         About Me
                     </button>

@@ -20,21 +20,10 @@ const About = () => {
           </div>
           <div className="flex-1 space-y-5">
             <p className="text-base text-zinc-300 font-normal">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Autem
-              atque ipsum ducimus aspernatur quam voluptas nobis vitae,
-              blanditiis unde quae consequatur inventore, voluptates vero.
-              Temporibus necessitatibus sint officia officiis a eum harum
-              aspernatur ex tempore? Lorem ipsum, dolor sit amet consectetur
-              adipisicing elit. Autem atque ipsum ducimus aspernatur quam
-              voluptas nobis vitae, blanditiis unde quae consequatur inventore,
-              voluptates vero.
+              I’m a passionate Software Engineer with hands-on experience in building responsive, interactive web applications using React.js, Next.js, JavaScript (ES6+), and Tailwind CSS. I thrive on writing clean, maintainable code and crafting seamless user experiences with a strong focus on UI/UX best practices, performance optimization, and cross-browser compatibility.
             </p>
             <p className="text-base text-zinc-300 font-normal">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Autem
-              atque ipsum ducimus aspernatur quam voluptas nobis vitae,
-              blanditiis unde quae consequatur inventore, voluptates vero.
-              Temporibus necessitatibus sint officia officiis a eum harum
-              aspernatur ex tempore?
+              At GoMyCode, I contributed to the development of scalable web applications, optimizing page load times by 30% and improving API response times by 25% through efficient RESTful API integration. I also collaborated closely with designers and developers to build reusable UI components, enhancing development efficiency and consistency across projects.
             </p>
           </div>
         </div>
@@ -44,7 +33,7 @@ const About = () => {
             I am available for freelance work.
           </p>
           <Link
-            to="mailto:gtech.official08@gmail.com"
+            to="mailto:abdulrahmanabiola@gmail.com"
             className="flex items-center gap-2 text-sm md:text-base font-semibold text-zinc-50 group-hover:text-zinc-200 ease-in-out duration-300"
           >
             Hire me{" "}
@@ -52,14 +41,7 @@ const About = () => {
           </Link>
         </div>
         <p className="text-base text-zinc-300 font-normal">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Autem atque
-          ipsum ducimus aspernatur quam voluptas nobis vitae, blanditiis unde
-          quae consequatur inventore, voluptates vero. Temporibus necessitatibus
-          sint officia officiis a eum harum aspernatur ex tempore? Lorem ipsum,
-          dolor sit amet consectetur adipisicing elit. Autem atque ipsum ducimus
-          aspernatur quam voluptas nobis vitae, blanditiis unde quae consequatur
-          inventore, voluptates vero. Lorem ipsum dolor sit, amet consectetur
-          adipisicing elit. Magni quaerat expedita neque adipisci earum maiores.
+          Beyond coding, I enjoy problem-solving, participating in code reviews, and working within agile teams to create innovative digital solutions. My technical expertise includes JavaScript, TypeScript, Git, and web performance optimization, and I’m constantly exploring new technologies to stay ahead in the ever-evolving web development landscape.
         </p>
       </div>
     </RootLayout>

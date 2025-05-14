@@ -6,7 +6,6 @@ import Portfolio from '../portfolio/Portfolio'
 import Testimonial from './testimonials/Testimonial'
 import Contact from '../contact/Contact'
 
-
 const Home = () => {
     return (
         <RootLayout className={'space-y-24'}>

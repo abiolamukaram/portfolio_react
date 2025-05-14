@@ -17,8 +17,10 @@ const App = () => {
           <div className="w-full flex items-start gap-16 md:py-6 py-0 md:pl-6 pl-0">
             {/* Sidebar NavItems */}
             <Sidenavbar />
+
             {/* Main Content */}
             <div className="flex-1 md:max-h-[calc(100vh-3rem)] max-h-screen md:min-h-[calc(100vh-3rem)] min-h-screen md:rounded-lg overflow-y-auto overflow-x-hidden md:pr-6 pr-0">
+
               {/* Layouts */}
               <div className="w-full bg-zinc-800 md:rounded-lg">
                 <Routes>
@@ -29,6 +31,7 @@ const App = () => {
                   <Route path="/contact" element={<Contact />} />
                 </Routes>
               </div>
+              
               {/* Footer section */}
               <Footer />
             </div>
